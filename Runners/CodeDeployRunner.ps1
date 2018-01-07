@@ -1,4 +1,4 @@
-params
+param
 (
 [String] $AppName,
 [String] $S3Bucket,
